@@ -1,3 +1,14 @@
+img {
+  width: 100%;  /* Ancho del 100% del contenedor */
+  height: auto; /* Mantiene la proporción original */
+}
+
+/* Para pantallas pequeñas (móviles) */
+@media (max-width: 768px) {
+  img {
+    width: 80%; /* Reducir el ancho en pantallas pequeñas */
+  }
+}
 button {
   font-size: 1.5rem;
   color: #fafafa;
