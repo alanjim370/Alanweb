@@ -1,3 +1,26 @@
+.img-responsiva {
+  max-width: 40%;
+  height: auto;
+  display: block;
+}
+
+button {
+  font-size: 1.5rem;
+  color: #fafafa;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 2px solid #fafafa;
+  background: #252525;
+  box-shadow: 3px 3px #fafafa;
+  cursor: pointer;
+  margin: 35px 0;
+}
+
+button:active {
+  box-shadow: none;
+  transform: translate(3px, 3px);
+}
 body {
   background-color: #DC143C;
   font-family:adobe gurmukhi, sans-serif;
@@ -118,5 +141,5 @@ h1 {
 p {
   color: #4B0082;
   font-size: 18px;
-  margin-bottom: 20px;
+  margin-bottom: 20px;
 }
