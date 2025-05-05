@@ -1,25 +1,33 @@
-.img-responsiva {
-  max-width: 40%;
-  height: auto;
-  display: block;
+.button {
+  background-color: #ffffff00;
+  color: #fff;
+  width: 8.5em;
+  height: 2.9em;
+  border: #3654ff 0.2em solid;
+  border-radius: 11px;
+  text-align: right;
+  transition: all 0.6s ease;
 }
 
-button {
-  font-size: 1.5rem;
-  color: #fafafa;
-  text-transform: uppercase;
-  padding: 10px 20px;
-  border-radius: 10px;
-  border: 2px solid #fafafa;
-  background: #252525;
-  box-shadow: 3px 3px #fafafa;
+.button:hover {
+  background-color: #3654ff;
   cursor: pointer;
-  margin: 35px 0;
 }
 
-button:active {
-  box-shadow: none;
-  transform: translate(3px, 3px);
+.button svg {
+  width: 1.6em;
+  margin: -0.2em 0.8em 1em;
+  position: absolute;
+  display: flex;
+  transition: all 0.6s ease;
+}
+
+.button:hover svg {
+  transform: translateX(5px);
+}
+
+.text {
+  margin: 0 1.5em
 }
 body {
   background-color: #DC143C;
