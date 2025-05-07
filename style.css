@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #008000;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.noticias {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.noticia {
+  margin-bottom: 2rem;
+}
+
+.noticia h2 {
+  color: #006400;
+}
+
+.noticia p {
+  color: #333;
+}
+
+.fecha {
+  font-size: 0.9rem;
+  color: #777;
+}
