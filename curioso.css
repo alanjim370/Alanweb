@@ -1,0 +1,23 @@
+#datos-curiosos {
+  background-color: #fefefe;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px auto;
+  width: 90%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.club-dato {
+  margin-bottom: 20px;
+}
+
+.club-dato h3 {
+  color: #00008B;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.club-dato p {
+  color: #4B0082;
+  font-size: 16px;
+}
