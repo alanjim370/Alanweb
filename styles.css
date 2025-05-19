@@ -1,8 +1,12 @@
 body {
-  background-color: #DC143C;
-  font-family: 'adobe gurmukhi', sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('ligamx.jpg'); /* Cambia 'fondo.jpg' por el nombre real del archivo */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   margin: 0;
   padding: 0;
+  color: #fff; /* Texto blanco para contraste */
 }
 
 header {
