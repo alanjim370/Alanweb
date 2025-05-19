@@ -1,13 +1,18 @@
 const noticias = [
   {
-    titulo: "Leon no va al mundial de clubes",
-    fecha: "6 de mayo de 2025",
-    contenido: "León no va al Mundial, víctima de tres voracidades, la propia, la de FIFA y la del América.."
+    titulo: "Final del Clausura 2025: América vs. Toluca",
+    fecha: "18 de mayo de 2025",
+    contenido: "América eliminó a Cruz Azul con un global de 2-2 (por mejor posición en la tabla) y enfrentará a Toluca en la gran final, que venció 4-1 a Tigres."
   },
   {
-    titulo: "Se acerca la fiesta grande del futbol mexicano",
-    fecha: "4 de mayo de 2025",
-    contenido: "Monterrey elimina a pumas con un contundente 2 a 0 para asegurar su pase a la liguilla.."
+    titulo: "Pachuca, campeón de la Liga MX Femenil",
+    fecha: "17 de mayo de 2025",
+    contenido: "Las Tuzas conquistaron su primer título al derrotar al Club América con un marcador global de 3-2. Charlyn Corral fue clave en la victoria."
+  },
+  {
+    titulo: "América jugará por un boleto al Mundial de Clubes",
+    fecha: "16 de mayo de 2025",
+    contenido: "Tras la descalificación de León, América enfrentará a LAFC el 31 de mayo en Los Ángeles por un lugar en el Mundial de Clubes 2025."
   }
 ];
 
