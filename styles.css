@@ -1,5 +1,8 @@
 body {
-  background-image: url("ligamx.jpg");
+  background-image: url('ligamx.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   font-family: 'adobe gurmukhi', sans-serif;
   margin: 0;
   padding: 0;
