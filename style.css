@@ -35,6 +35,9 @@ header {
   font-size: 0.9rem;
   color: #777;
 }
+a {
+  text-decoration: none;
+}
 button {
   --hover-shadows: 16px 16px 33px #121212, -16px -16px 33px #303030;
   --accent: fuchsia;
