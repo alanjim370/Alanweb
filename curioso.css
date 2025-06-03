@@ -51,6 +51,10 @@ section p {
   margin-bottom: 15px;
   font-size: 1rem;
   }
+
+a {
+  text-decoration: none;
+}
 /* From Uiverse.io by barisdogansutcu */ 
 button {
   padding: 17px 40px;
