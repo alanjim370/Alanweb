@@ -80,3 +80,13 @@ button:active {
   transform: translateY(10px);
   transition: 100ms;
 }
+
+.img-responsiva {
+  width: 40%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
