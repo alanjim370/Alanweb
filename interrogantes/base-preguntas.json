@@ -1,0 +1,102 @@
+[
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Qué equipo ha ganado más títulos de liga en México?",
+    "respuesta": "América",
+    "incorrecta1": "Chivas",
+    "incorrecta2": "Cruz Azul",
+    "incorrecta3": "Toluca",
+    "imagen": "p1.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Quién es el máximo goleador histórico de la Liga MX?",
+    "respuesta": "Evanivaldo Castro 'Cabinho'",
+    "incorrecta1": "Hugo Sánchez",
+    "incorrecta2": "Cardozo",
+    "incorrecta3": "Cuauhtémoc Blanco",
+    "imagen": "im4.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Qué equipo ganó el Clausura 2023?",
+    "respuesta": "Tigres",
+    "incorrecta1": "América",
+    "incorrecta2": "Pachuca",
+    "incorrecta3": "Monterrey",
+    "imagen": "p2.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Cuál es el clásico más antiguo del fútbol mexicano?",
+    "respuesta": "Chivas vs Atlas",
+    "incorrecta1": "América vs Pumas",
+    "incorrecta2": "Tigres vs Monterrey",
+    "incorrecta3": "Cruz Azul vs América",
+    "imagen": "p3.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Qué equipo se conoce como 'La Máquina'?",
+    "respuesta": "Cruz Azul",
+    "incorrecta1": "Toluca",
+    "incorrecta2": "León",
+    "incorrecta3": "Querétaro",
+    "imagen": "p4.png",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿En qué estadio juega el Club América?",
+    "respuesta": "Estadio Azteca",
+    "incorrecta1": "Estadio Jalisco",
+    "incorrecta2": "Estadio BBVA",
+    "incorrecta3": "Estadio Universitario",
+    "imagen": "p5.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Qué equipo tiene más subcampeonatos en Liga MX?",
+    "respuesta": "Cruz Azul",
+    "incorrecta1": "Toluca",
+    "incorrecta2": "Pumas",
+    "incorrecta3": "León",
+    "imagen": "p6.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Cuál es el apodo del Club León?",
+    "respuesta": "La Fiera",
+    "incorrecta1": "Los Tuzos",
+    "incorrecta2": "Los Guerreros",
+    "incorrecta3": "Los Zorros",
+    "imagen": "p7.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Qué equipo es conocido como 'Los Tuzos'?",
+    "respuesta": "Pachuca",
+    "incorrecta1": "Santos",
+    "incorrecta2": "Puebla",
+    "incorrecta3": "Necaxa",
+    "imagen": "p8.jpeg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "LIGA MX",
+    "pregunta": "¿Qué equipo es originario de Monterrey, Nuevo León?",
+    "respuesta": "Tigres",
+    "incorrecta1": "Atlas",
+    "incorrecta2": "Toluca",
+    "incorrecta3": "Chivas",
+    "imagen": "p9.jpeg",
+    "objectFit": "cover"
+  }
+]
